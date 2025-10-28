@@ -4,7 +4,7 @@ using UnityEngine.AI;
 public class CartMovement : MonoBehaviour
 {
     public Camera mainCamera;           // Reference to your third-person camera
-    public float distance = 0.25f;         // How far in front of the cart the target point should be
+    public float distance = 0.035f;         // How far in front of the cart the target point should be
 
     private NavMeshAgent agent;
 
