@@ -1,0 +1,4 @@
+repository "Smart Cart/SmartCart@20067517143172@cloud"
+  path "/"
+    br "/main"
+    co "/main"
